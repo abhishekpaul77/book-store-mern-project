@@ -1,0 +1,8 @@
+.team{
+    display: flex;
+    justify-content: space-between;
+}
+
+.member>img{
+   border-radius: 50%;
+}
